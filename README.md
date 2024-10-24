@@ -1,16 +1,9 @@
 # percentodo
 
-A new Flutter project.
+강의를 수강하고,
+UI 그리기와 GetX, firebase를 실습하기 위한 프로젝트입니다.
 
-## Getting Started
+## 진행과정
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+진행과정은 블로그의 TIL을 통해 기록하고 있습니다.
+[블로그](https://velog.io/@daeseongkim/TIL-20241023-GetX-Firebase%EB%A1%9C-Todo%EC%95%B1-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0)
